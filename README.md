@@ -1,9 +1,15 @@
 <p align="center">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/puv?color=236ad3&style=for-the-badge&logo=github&label=Follow" href="https://github.com/users/follow?target=puv"/>
+  <a href="https://github.com/users/follow?target=puv">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/puv?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  
+    <img alt="stats" title="puv's Github Stats" src="https://myreadme.vercel.app/api/embed/puv?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
+    <img alt="stats" title="puv's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puv&theme=tokyonight"/>
+  </a>
+  
+  <a href="https://github.com/puv/liveSubs">
+    <img alt="stats" title="puv's Pinned Project" src="https://github-readme-stats.vercel.app/api/pin/?username=puv&repo=liveSubs"/>
+  </a>
 
-<img alt="stats" title="puv's Github Stats" src="https://myreadme.vercel.app/api/embed/puv?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
-<img alt="stats" title="puv's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puv&theme=tokyonight"/>
-<img alt="stats" title="puv's Pinned Project" src="https://github-readme-stats.vercel.app/api/pin/?username=puv&repo=liveSubs"/>
 
 <details>
 <summary>Other Stuff</summary>
