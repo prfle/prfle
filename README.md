@@ -6,7 +6,7 @@
 <img alt="stats" title="puv's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puv&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/puv/liveSubs">
+<a target="_blank" href="https://github.com/puv/liveSubs">
 <img alt="stats" title="puv's Pinned Project" src="https://github-readme-stats.vercel.app/api/pin/?username=puv&repo=liveSubs"/>
 </a>
 
