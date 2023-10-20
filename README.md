@@ -1,9 +1,11 @@
 <center>
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/puv?color=236ad3&style=for-the-badge&logo=github&label=Follow" href="https://github.com/users/follow?target=puv"/>
-[puv's GitHub stats](https://myreadme.vercel.app/api/embed/puv?panels=userstatistics,toprepositories,toplanguages,commitgraph)
-[puv's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=puv&theme=tokyonight)
-[Pinned Project](https://github-readme-stats.vercel.app/api/pin/?username=puv&repo=liveSubs)](https://github.com/puv/liveSubs)
-  
+
+![puv's GitHub stats](https://myreadme.vercel.app/api/embed/puv?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+![puv's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=puv&theme=tokyonight)
+[![Pinned Project](https://github-readme-stats.vercel.app/api/pin/?username=puv&repo=liveSubs)](https://github.com/puv/liveSubs)
+</center>
+<center>
 <details>
 <summary>Other Stuff</summary>
 ## Stuff I use (know of)
