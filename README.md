@@ -1,5 +1,5 @@
 ![puv's GitHub stats](https://myreadme.vercel.app/api/embed/puv?panels=userstatistics,toprepositories,toplanguages,commitgraph)
-![puv's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight)
+![puv's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=puv&theme=tokyonight)
 
 [![Pinned Project](https://github-readme-stats.vercel.app/api/pin/?username=puv&repo=liveSubs)](https://github.com/puv/liveSubs)
 
