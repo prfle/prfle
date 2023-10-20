@@ -1,7 +1,9 @@
-![puv's GitHub stats](https://github-readme-stats.vercel.app/api?username=puv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puv&layout=compact&theme=radical)
+![puv's GitHub stats](https://myreadme.vercel.app/api/embed/puv?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+![puv's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight)
 
+[![Pinned Project](https://github-readme-stats.vercel.app/api/pin/?username=puv&repo=liveSubs)](https://github.com/puv/liveSubs)
 
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/puv?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 ## Stuff I use (know of)
 
