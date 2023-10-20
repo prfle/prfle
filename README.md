@@ -1,5 +1,5 @@
 <p align="center">
-<a target="_blank" href="https://github.com/users/follow?target=puv">
+<a target="_blank" href="https://github.com/puv">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/puv?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 <img alt="stats" title="puv's Github Stats" src="https://myreadme.vercel.app/api/embed/puv?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
 <img alt="stats" title="puv's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puv&theme=tokyonight"/>
