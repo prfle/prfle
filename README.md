@@ -1,6 +1,6 @@
 <p align="center">
 
-<a href="#" onclick="const xhr = new XMLHttpRequest(); xhr.open('POST', 'https://github.com/users/follow?target=puv'); xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');">Click me!</a>
+<a href="#" onclick="const xhr = new XMLHttpRequest(); xhr.open('POST', 'https://github.com/users/follow?target=puv'); xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');">
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/puv?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 <img alt="stats" title="puv's Github Stats" src="https://myreadme.vercel.app/api/embed/puv?panels=userstatistics,toprepositories,toplanguages,commitgraph"/>
